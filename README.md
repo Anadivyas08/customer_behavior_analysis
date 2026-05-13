@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project focuses on analyzing customer shopping behavior using transactional retail data containing 3,900 purchase records across multiple product categories. The analysis was performed using Python, PostgreSQL, and Power BI to uncover customer purchasing patterns, product preferences, subscription behavior, and revenue insights that can support strategic business decisions.
+This project focuses on analyzing customer shopping behavior using transactional retail data containing 3,900 purchase records across multiple product categories. The analysis was performed using Python, MySQL, and Power BI to uncover customer purchasing patterns, product preferences, subscription behavior, and revenue insights that can support strategic business decisions.
 
 ## Objectives
 Analyze customer purchase behavior and spending trends
@@ -54,7 +54,7 @@ Removed redundant columns
 Loaded cleaned data into PostgreSQL for analysis
 ## SQL Business Analysis
 
-The project answered several business questions using PostgreSQL queries:
+The project answered several business questions using MySQL queries:
 
 Key Analyses Performed
 Revenue comparison by gender
