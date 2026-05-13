@@ -121,6 +121,6 @@ Add predictive analytics for customer churn
 Implement recommendation systems
 Perform customer lifetime value analysis
 Build automated reporting pipelines
-📌## Conclusion
+## Conclusion
 
 This project demonstrates an end-to-end retail data analysis workflow using Python, SQL, and Power BI. The insights generated can help businesses improve customer retention, optimize marketing strategies, and enhance product positioning through data-driven decision-making.
