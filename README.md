@@ -41,7 +41,7 @@ Python	Data Cleaning & Exploratory Data Analysis
 Pandas & NumPy	Data Manipulation
 MySQL	SQL Analysis
 Power BI	Data Visualization & Dashboarding
-🔍 Data Cleaning & Feature Engineering
+Data Cleaning & Feature Engineering
 
 The following preprocessing steps were performed:
 
